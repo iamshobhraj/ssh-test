@@ -5,7 +5,7 @@
  */
 hjgfd
 ghjk
-
+rfgfhjk
 var twoSumm = function(nums, target) {
   let obj = {};
   for(let i = 0; i < nums.length; i++){
