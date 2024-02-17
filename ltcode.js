@@ -8,6 +8,7 @@ ghjk
 rfgfhjk
 gefht
 ed
+fd
 
 var twoSumm = function(nums, target) {
   let obj = {};
